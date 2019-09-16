@@ -8,7 +8,7 @@ Script. I'm going to become a front-end web developer.
 ## Skills 
 C++ CSS, HTML and JavaScript
 ## Code examples 
-(LATEST https://github.com/VadzimFiadoryn/game_pong)
+([LATEST] https://github.com/VadzimFiadoryn/game_pong)
 ## Experience 
 (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.

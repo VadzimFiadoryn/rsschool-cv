@@ -15,4 +15,4 @@ freelance projects - wherever they had the opportunity to demonstrate skills the
 Also it would be awesome if you add links to source code)
 ## Education 
 * Step Academy
-* English A2
+*  English A2
